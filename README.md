@@ -1,0 +1,2 @@
+# AI_perfectmaster_course
+初心者用AI講座学習サンプルノートブックです。Github練習兼ねてます
